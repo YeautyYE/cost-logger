@@ -61,4 +61,4 @@
 - 在com.yeauty.CostLoggerApplicationTests进行单元测试
 ![](https://i.imgur.com/wqDvz62.png)
 - 结果如下
-![](https://i.imgur.com/E7HS80Y.png)
+![](https://i.imgur.com/io0zurE.png)
