@@ -45,14 +45,15 @@
 		<artifactId>spring-boot-starter-aop</artifactId>
 	</dependency>
 	```
-2. 在需要打印日志的方法上加上@CostLogger
+2. 引入CostLogger、CostLoggerInterceptor这两个类
+3. 在需要打印日志的方法上加上@CostLogger
 	```java
 	@CostLogger
     public void function() {
 		//do something...
     }
 	```
-3. 正常运行项目即可
+4. 正常运行项目即可
 
 ## 示例
 - 在本项目中的com.yeauty.service.impl.ShowServiceImpl有注解展示
